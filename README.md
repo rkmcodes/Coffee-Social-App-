@@ -4,7 +4,8 @@ This Overall Project README will be updated later to reflect, in detail, how fro
 
 App Idea (Coffee) - Yelp for beverages; rate coffee, check-in, post pics, "Yeah, that's so fun!", reward system, ethical sourcing practices (fair trade, eco-friendly, sustainable production practices), surveys
 
-Features:
+Features & Responsibilities:
+
 User Profile
 - Front: Allison
 - Back: Nicole
