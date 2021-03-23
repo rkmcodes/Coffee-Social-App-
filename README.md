@@ -8,12 +8,15 @@ Features:
 User Profile
 - Front: Allison
 - Back: Nicole
+
 Review System
 - Front: Sarah
 - Back: Nicole
+
 Map
 - Front: Allison
 - Back: La Royce
+
 Search
 - Front: Sarah
 - Back: Kelly
